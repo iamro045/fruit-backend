@@ -1,0 +1,278 @@
+[
+  {
+    "id": "apple-fuji",
+    "name": "Fuji Apple",
+    "images": ["apple.jpeg"],
+    "inStock": true,
+    "price": 120,
+    "unit": "per kg",
+    "category": "Temperate",
+    "rating": 4.5,
+    "reviews": 82,
+    "highlights": [
+      "Crisp and Juicy Texture",
+      "Rich in Vitamin C",
+      "Sourced from Himachal"
+    ],
+    "description": "Crisp, sweet, and juicy Fuji apples are perfect for snacking and baking. They are known for their refreshing taste and long shelf life.",
+    "nutrition": {
+      "calories": "52 kcal",
+      "carbs": "14 g",
+      "fiber": "2.4 g",
+      "sugar": "10 g"
+    }
+  },
+  {
+    "id": "banana-cavendish",
+    "name": "Cavendish Banana",
+    "images": ["banana.jpeg"],
+    "inStock": true,
+    "price": 60,
+    "unit": "per dozen",
+    "category": "Tropical",
+    "rating": 4.7,
+    "reviews": 120,
+    "highlights": [
+      "Rich in Potassium",
+      "Natural Energy Booster",
+      "Naturally Ripened"
+    ],
+    "description": "A creamy and sweet banana that's packed with potassium and other essential nutrients. The perfect on-the-go snack.",
+    "nutrition": {
+      "calories": "89 kcal",
+      "carbs": "23 g",
+      "fiber": "2.6 g",
+      "protein": "1.1 g"
+    }
+  },
+  {
+    "id": "orange-navel",
+    "name": "Navel Orange",
+    "images": ["orange.jpeg"],
+    "inStock": true,
+    "price": 80,
+    "unit": "per kg",
+    "category": "Citrus",
+    "rating": 4.6,
+    "reviews": 95,
+    "highlights": [
+      "High in Vitamin C",
+      "Easy to Peel",
+      "Sourced from Nagpur"
+    ],
+    "description": "Seedless, easy to peel, and bursting with citrus flavor, these Navel oranges are a healthy and delicious treat.",
+    "nutrition": {
+      "calories": "47 kcal",
+      "carbs": "12 g",
+      "fiber": "2.4 g",
+      "sugar": "9 g"
+    }
+  },
+  {
+    "id": "strawberry-california",
+    "name": "Strawberry",
+    "images": ["strawberry.jpeg"],
+    "inStock": false,
+    "price": 250,
+    "unit": "per box",
+    "category": "Berry",
+    "rating": 4.8,
+    "reviews": 150,
+    "highlights": [
+      "Rich in Antioxidants",
+      "Sweet & Fragrant",
+      "Perfect for Desserts"
+    ],
+    "description": "Sweet, fragrant berries that are a taste of summer. Perfect for salads, desserts, or just eating on their own.",
+    "nutrition": {
+      "calories": "32 kcal",
+      "carbs": "8 g",
+      "fiber": "2 g",
+      "protein": "0.7 g"
+    }
+  },
+  {
+    "id": "pomegranate-wonderful",
+    "name": "Pomegranate",
+    "images": ["pomegranate.jpeg"],
+    "inStock": true,
+    "price": 180,
+    "unit": "per kg",
+    "category": "Temperate",
+    "rating": 4.7,
+    "reviews": 78,
+    "highlights": [
+      "Ruby-Red Arils",
+      "Boosts Immunity",
+      "Great for Juicing"
+    ],
+    "description": "Juicy, ruby-red arils packed with antioxidants and flavor. A superfood that's both healthy and delicious.",
+    "nutrition": {
+      "calories": "83 kcal",
+      "carbs": "19 g",
+      "fiber": "4 g",
+      "sugar": "14 g"
+    }
+  },
+  {
+    "id": "grapes-thompson",
+    "name": "Green Grapes",
+    "images": ["grapes.webp"],
+    "inStock": true,
+    "price": 90,
+    "unit": "per kg",
+    "category": "Temperate",
+    "rating": 4.5,
+    "reviews": 110,
+    "highlights": [
+      "Crisp & Seedless",
+      "Rich in Vitamins K & C",
+      "Naturally Sweet"
+    ],
+    "description": "Sweet and crisp seedless green grapes, perfect for snacking. A healthy treat for all ages.",
+    "nutrition": {
+      "calories": "69 kcal",
+      "carbs": "18 g",
+      "fiber": "0.9 g",
+      "sugar": "15 g"
+    }
+  },
+  {
+    "id": "mango-alphonso",
+    "name": "Alphonso Mango",
+    "images": ["mango.jpeg"],
+    "inStock": false,
+    "price": 450,
+    "unit": "per dozen",
+    "category": "Tropical",
+    "rating": 4.9,
+    "reviews": 215,
+    "highlights": [
+      "The King of Fruits",
+      "Rich, Creamy Texture",
+      "Authentic Ratnagiri Alphonso"
+    ],
+    "description": "Known as the King of Fruits, with a rich, creamy texture and sweet flavor that is unparalleled.",
+    "nutrition": {
+      "calories": "60 kcal",
+      "carbs": "15 g",
+      "fiber": "1.6 g",
+      "sugar": "14 g"
+    }
+  },
+  {
+    "id": "pineapple-queen",
+    "name": "Pineapple",
+    "images": ["pineapple.jpeg"],
+    "inStock": true,
+    "price": 70,
+    "unit": "per piece",
+    "category": "Tropical",
+    "rating": 4.6,
+    "reviews": 88,
+    "highlights": [
+      "Tangy & Sweet Taste",
+      "Excellent Source of Manganese",
+      "Great for Grilling"
+    ],
+    "description": "A tropical fruit with a tangy and sweet taste, perfect for juices, salads, and grilling.",
+    "nutrition": {
+      "calories": "50 kcal",
+      "carbs": "13 g",
+      "fiber": "1.4 g",
+      "sugar": "10 g"
+    }
+  },
+  {
+    "id": "watermelon-sugar-baby",
+    "name": "Watermelon",
+    "images": ["watermelon.jpeg"],
+    "inStock": false,
+    "price": 50,
+    "unit": "per piece",
+    "category": "Tropical",
+    "rating": 4.8,
+    "reviews": 132,
+    "highlights": [
+      "92% Water Content",
+      "Naturally Hydrating",
+      "The Perfect Summer Treat"
+    ],
+    "description": "Incredibly hydrating and refreshing, the perfect summer treat. Sweet, juicy, and low in calories.",
+    "nutrition": {
+      "calories": "30 kcal",
+      "carbs": "8 g",
+      "fiber": "0.4 g",
+      "sugar": "6 g"
+    }
+  },
+  {
+    "id": "kiwi-hayward",
+    "name": "Kiwi",
+    "images": ["kiwi.jpeg"],
+    "inStock": true,
+    "price": 300,
+    "unit": "per kg",
+    "category": "Berry",
+    "rating": 4.7,
+    "reviews": 102,
+    "highlights": [
+      "Rich in Vitamin C",
+      "Tart & Sweet Flavor",
+      "Great for Smoothies"
+    ],
+    "description": "Bright green flesh with a tangy-sweet flavor, Kiwi is a nutrient powerhouse packed with Vitamin C and antioxidants.",
+    "nutrition": {
+      "calories": "61 kcal",
+      "carbs": "15 g",
+      "fiber": "3 g",
+      "sugar": "9 g"
+    }
+  },
+  {
+    "id": "papaya-red-lady",
+    "name": "Papaya",
+    "images": ["papaya.jpeg"],
+    "inStock": true,
+    "price": 55,
+    "unit": "per kg",
+    "category": "Tropical",
+    "rating": 4.6,
+    "reviews": 87,
+    "highlights": [
+      "Aids Digestion",
+      "Rich in Vitamin A",
+      "Naturally Sweet & Soft"
+    ],
+    "description": "A succulent tropical fruit with an orange flesh that is both sweet and smooth, perfect for smoothies and salads.",
+    "nutrition": {
+      "calories": "43 kcal",
+      "carbs": "11 g",
+      "fiber": "1.7 g",
+      "sugar": "8 g"
+    }
+  },
+  {
+    "id": "pear-bartlett",
+    "name": "Pear",
+    "images": ["pear.jpeg"],
+    "inStock": true,
+    "price": 140,
+    "unit": "per kg",
+    "category": "Temperate",
+    "rating": 4.5,
+    "reviews": 76,
+    "highlights": [
+      "Delicately Sweet & Juicy",
+      "Good Source of Fiber",
+      "Ideal for Snacking"
+    ],
+    "description": "Soft, juicy, and delicately sweet, Bartlett pears are a wholesome snack packed with dietary fiber and nutrients.",
+    "nutrition": {
+      "calories": "57 kcal",
+      "carbs": "15 g",
+      "fiber": "3.1 g",
+      "sugar": "10 g"
+    }
+  }
+]
