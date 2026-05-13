@@ -16,7 +16,11 @@ const app = express();
 const PORT = process.env.PORT || 5001;
 
 // --- Middlewares ---
-app.use(cors());
+// server.js
+app.use(cors({
+  origin: process.env.FRONTEND_URL, // e.g., https://fruit-site.vercel.app
+  credentials: true
+}));
 app.use(express.json());
 app.use(express.static('public'));
 
